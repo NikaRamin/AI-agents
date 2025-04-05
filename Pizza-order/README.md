@@ -22,7 +22,7 @@ cd gradio_test
 
 2. Install dependencies:
 ```bash
-pip install langchain-google-genai python-dotenv gradio langgraph
+pip install -r requirements.txt
 ```
 
 3. Set up your environment:
