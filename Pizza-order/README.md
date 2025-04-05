@@ -17,7 +17,6 @@ An interactive pizza ordering chatbot built with Gradio and Google's Gemini AI. 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd gradio_test
 ```
 
 2. Install dependencies:
