@@ -39,7 +39,7 @@ python main.py
 
 ## 🛠️ Technical Stack
 
-- **Frontend**: Gradio (beautiful web interface)
+- **Frontend**: Gradio
 - **Backend**: Python with LangChain
 - **AI Model**: Google Gemini 2.0 Flash
 - **State Management**: Custom TypedDict implementation
